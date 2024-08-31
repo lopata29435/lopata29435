@@ -46,6 +46,12 @@
 <a href="https://github.com/lopata29435" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
+<a href="https://t.me/lopata1239" target="_blank">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:lopata29435@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>  
 
 <br/>  
