@@ -10,9 +10,7 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-<!-- Можно добавить дополнительные скиллы в этот столбец -->
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -29,7 +27,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### DevOps  
 <div align="center">  
