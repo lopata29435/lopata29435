@@ -1,28 +1,18 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="600" />
 </div>  
-  
 
 ### <div align="center">Привет! Меня зовут Пётр.</div>  
-  
 
-- 🔭 Сейчас я работаю над: https://github.com/lopata29435/PhotoOrganizer  
-  
-
+- 🔭 Сейчас я работаю над: [PhotoOrganizer](https://github.com/lopata29435/PhotoOrganizer)  
 - 🌱 Сейчас я изучаю: C#, QT, Android  
-  
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
+<!-- Можно добавить дополнительные скиллы в этот столбец -->
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -41,8 +31,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -55,32 +43,30 @@
 
 <br/>  
 
-
 ## Connect with me  
+<div align="center">
 <a href="https://github.com/lopata29435" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
+</div>  
 
 <br/>  
-
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=lopata29435&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lopata29435&show_icons=true&count_private=true&hide_border=true" />
+</div>  
 
 <br/>  
-
 
 ## Recent Blog Posts  
-  
+<!-- Здесь вы можете добавить ссылки на свои последние блоги, если есть -->
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" />
+</div>  
 
 <br/>  
 
@@ -90,8 +76,11 @@
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a>
+</div>
+
 <br />
 
 ----
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
