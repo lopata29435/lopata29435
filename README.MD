@@ -52,6 +52,7 @@
 <a href="mailto:lopata29435@gmail.com">
   <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<span style="margin-left: 10px;">lopata29435@gmail.com</span>
 </div>  
 
 <br/>  
