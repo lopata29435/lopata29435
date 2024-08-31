@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="600" />
+<img src="https://th.bing.com/th/id/R.2c7e829ff9aab22e46d96d003c9dc464?rik=tFxKYalJPxM0cQ&pid=ImgRaw&r=0" align="center" width="600" />
 </div>  
 
 ### <div align="center">Привет! Меня зовут Пётр.</div>  
