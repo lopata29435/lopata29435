@@ -2,10 +2,7 @@
 <img src="https://th.bing.com/th/id/R.2c7e829ff9aab22e46d96d003c9dc464?rik=tFxKYalJPxM0cQ&pid=ImgRaw&r=0" align="center" width="600" />
 </div>  
 
-### <div align="center">Привет! Меня зовут Пётр.</div>  
-
-- 🔭 Сейчас я работаю над: [PhotoOrganizer](https://github.com/lopata29435/PhotoOrganizer)  
-- 🌱 Сейчас я изучаю: C#, QT, Android  
+### <div align="center">Привет! Меня зовут Пётр.</div>    
 
 <br/>  
 
