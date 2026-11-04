@@ -1,65 +1,32 @@
-<img src="./assets/header.svg" alt="Petr Lopatkin — Java Backend Developer" width="100%">
+<div align="center">
+  <img src="./assets/cat.gif" alt="Котик машет лапкой" width="280">
+  <h1>Привет, я Пётр 👋</h1>
+</div>
+
+- 💻 Работаю разработчиком в **[Т-Банке](https://www.tbank.ru/)**.
+- 🎓 Заканчиваю **[программную инженерию в НИУ ВШЭ](https://www.hse.ru/ba/se/)** — выпуск в **2027**.
+- ❤️ Люблю **open source** и полезные проекты.
+- 🚴 Вне работы — велосипед и домашние серверы.
+
+За всё хорошее, против всего плохого 🙂
+
+<h3 align="center">На связи</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/petr-lopatkin-1723a5367/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="./resume.md"><strong>Резюме</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/lopataWork"><strong>Telegram</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:lopata29435@gmail.com"><strong>Email</strong></a>
+  <a href="https://www.linkedin.com/in/petr-lopatkin-1723a5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/lopataWork"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+  <a href="mailto:lopata29435@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
-## Привет, я Пётр
+<h3 align="center">GitHub</h3>
 
-Java backend-разработчик в **Т-Банке**. Учусь на программной инженерии в **НИУ ВШЭ**, выпуск — 2027.
+<p align="center">
+  <a href="https://github.com/lopata29435?tab=followers"><img src="https://img.shields.io/github/followers/lopata29435?style=flat&amp;logo=github&amp;label=Followers" alt="GitHub followers"></a>
+  <a href="https://github.com/lopata29435?tab=repositories"><img src="https://img.shields.io/github/stars/lopata29435?style=flat&amp;logo=github&amp;label=Stars" alt="GitHub stars"></a>
+</p>
 
-Работаю с Java, Spring и PostgreSQL. В моём опыте — оптимизация SQL-запросов, развитие больших Java-проектов, RAG с локальными LLM и разработка на C++/Qt. Интересуюсь производительностью, безопасностью и распределёнными системами.
-
-В свободное время делаю приложения для собственных задач, собираю домашнюю серверную инфраструктуру и катаюсь на велосипеде.
-
-## С чем работаю
-
-| Направление | Технологии |
-| --- | --- |
-| **Backend** | Java · Spring Boot / Data / Cloud · Hibernate / JPA · REST · gRPC |
-| **Данные и очереди** | PostgreSQL · Redis · MongoDB · Kafka · RabbitMQ |
-| **Инфраструктура** | Linux · Docker · Kubernetes · GitLab CI · GitHub Actions |
-| **ИИ и автоматизация** | Python · Spring AI · RAG · MCP · локальные LLM |
-| **Другие проекты** | Go · Rust / Axum / Tauri · C++ / Qt · ESP32 / BLE |
-
-## Избранные проекты
-
-### [Lopata — клиент TrustTunnel](https://github.com/lopata29435/lopataTTC)
-
-Приложение для Windows, macOS и Linux: профили серверов, импорт `tt://`, работа из трея, kill switch и обновления приложения. Независимый клиент на базе официального VPN-ядра TrustTunnel.
-
-**Rust · Tauri · Networking**
-
-### [Kitchen app](https://github.com/lopata29435/CBPai)
-
-Домашнее приложение для меню на неделю, списка покупок и учёта продуктов. Backend на Rust, PWA на React, импорт покупок по QR-коду чека.
-
-**Rust · Axum · PostgreSQL · React · Docker**
-
-### [Lopon — датчик скорости](https://github.com/lopon-project/lopon-esp32-hall-speed-sensor-firmware)
-
-Прошивка велосипедного датчика на ESP32-C3 и датчике Холла. Передаёт события вращения колеса по BLE с использованием стандартного Cycling Speed and Cadence Profile.
-
-**C++ · ESP32-C3 · Bluetooth Low Energy**
-
-### [Bank REST API](https://github.com/lopata29435/bank_REST)
-
-Учебный backend для управления банковскими картами: роли пользователей, JWT-аутентификация, переводы, миграции базы и API-документация.
-
-**Java · Spring Security · PostgreSQL · Liquibase · Docker**
-
-## Исследования и open source
-
-- **[Модели взаимодействия агентов](https://github.com/lopata29435/Enhancing-Models-of-Asynchronous-Agent-Interactions-Using-Event-Logs-from-Multi-Agent-Systems)** — исследовательский проект: восстановление моделей по журналам событий, сети Петри и оценка качества моделей. Python, PM4Py.
-- **[Производительность памяти в Java и C++](https://github.com/lopata29435/Comparison-of-Java-vs.-C-Memory-Management-Performance)** — материалы и бенчмарки для сравнения управления памятью.
-- **[Waterius · PR #550](https://github.com/dontsovcmc/waterius/pull/550)** — предложил проверку HTTPS-сертификатов при отправке показаний и загрузке обновлений; решение обсуждается с автором проекта.
-
----
-
-Подробности об опыте — в **[резюме](./resume.md)**. Для связи: **[Telegram](https://t.me/lopataWork)** или **[lopata29435@gmail.com](mailto:lopata29435@gmail.com)**.
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=lopata29435&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;custom_title=GitHub%20Stats&amp;disable_animations=true" alt="Коммиты, звёзды, pull requests и рейтинг GitHub Stats" width="500">
+  </a>
+</p>
