@@ -1,63 +1,65 @@
-<div align="center">
-<img src="https://th.bing.com/th/id/R.2c7e829ff9aab22e46d96d003c9dc464?rik=tFxKYalJPxM0cQ&pid=ImgRaw&r=0" align="center" width="600" />
-</div>  
+<img src="./assets/header.svg" alt="Petr Lopatkin — Java Backend Developer" width="100%">
 
-### <div align="center">Привет! Меня зовут Пётр.</div>    
+<p align="center">
+  <a href="https://www.linkedin.com/in/petr-lopatkin-1723a5367/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="./resume.md"><strong>Резюме</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/lopataWork"><strong>Telegram</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:lopata29435@gmail.com"><strong>Email</strong></a>
+</p>
 
-<br/>  
+## Привет, я Пётр
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+Java backend-разработчик в **Т-Банке**. Учусь на программной инженерии в **НИУ ВШЭ**, выпуск — 2027.
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
+Работаю с Java, Spring и PostgreSQL. В моём опыте — оптимизация SQL-запросов, развитие больших Java-проектов, RAG с локальными LLM и разработка на C++/Qt. Интересуюсь производительностью, безопасностью и распределёнными системами.
 
-</td><td valign="top" width="50%">
+В свободное время делаю приложения для собственных задач, собираю домашнюю серверную инфраструктуру и катаюсь на велосипеде.
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+## С чем работаю
 
-</td></tr></table>  
+| Направление | Технологии |
+| --- | --- |
+| **Backend** | Java · Spring Boot / Data / Cloud · Hibernate / JPA · REST · gRPC |
+| **Данные и очереди** | PostgreSQL · Redis · MongoDB · Kafka · RabbitMQ |
+| **Инфраструктура** | Linux · Docker · Kubernetes · GitLab CI · GitHub Actions |
+| **ИИ и автоматизация** | Python · Spring AI · RAG · MCP · локальные LLM |
+| **Другие проекты** | Go · Rust / Axum / Tauri · C++ / Qt · ESP32 / BLE |
 
-<br/>  
+## Избранные проекты
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/lopata29435" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://t.me/lopata1239" target="_blank">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:lopata29435@gmail.com">
-  <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<span style="margin-left: 10px;">lopata29435@gmail.com</span>
-</div>  
+### [Lopata — клиент TrustTunnel](https://github.com/lopata29435/lopataTTC)
 
-<br/>  
+Приложение для Windows, macOS и Linux: профили серверов, импорт `tt://`, работа из трея, kill switch и обновления приложения. Независимый клиент на базе официального VPN-ядра TrustTunnel.
 
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lopata29435&show_icons=true&count_private=true&hide_border=true" />
-</div>  
+**Rust · Tauri · Networking**
 
-<br/>  
+### [Kitchen app](https://github.com/lopata29435/CBPai)
 
+Домашнее приложение для меню на неделю, списка покупок и учёта продуктов. Backend на Rust, PWA на React, импорт покупок по QR-коду чека.
+
+**Rust · Axum · PostgreSQL · React · Docker**
+
+### [Lopon — датчик скорости](https://github.com/lopon-project/lopon-esp32-hall-speed-sensor-firmware)
+
+Прошивка велосипедного датчика на ESP32-C3 и датчике Холла. Передаёт события вращения колеса по BLE с использованием стандартного Cycling Speed and Cadence Profile.
+
+**C++ · ESP32-C3 · Bluetooth Low Energy**
+
+### [Bank REST API](https://github.com/lopata29435/bank_REST)
+
+Учебный backend для управления банковскими картами: роли пользователей, JWT-аутентификация, переводы, миграции базы и API-документация.
+
+**Java · Spring Security · PostgreSQL · Liquibase · Docker**
+
+## Исследования и open source
+
+- **[Модели взаимодействия агентов](https://github.com/lopata29435/Enhancing-Models-of-Asynchronous-Agent-Interactions-Using-Event-Logs-from-Multi-Agent-Systems)** — исследовательский проект: восстановление моделей по журналам событий, сети Петри и оценка качества моделей. Python, PM4Py.
+- **[Производительность памяти в Java и C++](https://github.com/lopata29435/Comparison-of-Java-vs.-C-Memory-Management-Performance)** — материалы и бенчмарки для сравнения управления памятью.
+- **[Waterius · PR #550](https://github.com/dontsovcmc/waterius/pull/550)** — предложил проверку HTTPS-сертификатов при отправке показаний и загрузке обновлений; решение обсуждается с автором проекта.
+
+---
+
+Подробности об опыте — в **[резюме](./resume.md)**. Для связи: **[Telegram](https://t.me/lopataWork)** или **[lopata29435@gmail.com](mailto:lopata29435@gmail.com)**.
