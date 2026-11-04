@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="./assets/cat.gif" alt="Котик машет лапкой" width="280">
-  <h1>Привет, я Пётр 👋</h1>
+  <img src="./assets/cat.gif" alt="A cat waving hello" width="280">
+  <h1>Hi, I'm Petr 👋</h1>
 </div>
 
-- 💻 Работаю разработчиком в **[Т-Банке](https://www.tbank.ru/)**.
-- 🎓 Заканчиваю **[программную инженерию в НИУ ВШЭ](https://www.hse.ru/ba/se/)** — выпуск в **2027**.
-- ❤️ Люблю **open source** и полезные проекты.
-- 🚴 Вне работы — велосипед и домашние серверы.
+- 💻 Software developer at **[T-Bank](https://www.tbank.ru/)**.
+- 🎓 Finishing my **[Software Engineering degree at HSE University](https://www.hse.ru/ba/se/)** — graduating in **2027**.
+- ❤️ I love **open source** and useful projects.
+- 🚴 Outside work: cycling and home servers.
 
-За всё хорошее, против всего плохого 🙂
+All for the good things, against the bad ones 🙂
 
-<h3 align="center">На связи</h3>
+<h3 align="center">Let's connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/petr-lopatkin-1723a5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
@@ -27,6 +27,6 @@
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=lopata29435&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;custom_title=GitHub%20Stats&amp;disable_animations=true" alt="Коммиты, звёзды, pull requests и рейтинг GitHub Stats" width="500">
+    <img src="https://github-stats-extended.vercel.app/api?username=lopata29435&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;custom_title=GitHub%20Stats&amp;disable_animations=true" alt="Commits, stars, pull requests and GitHub Stats rank" width="500">
   </a>
 </p>
